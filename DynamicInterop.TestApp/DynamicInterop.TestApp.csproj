@@ -2,11 +2,11 @@
   <PropertyGroup>
     <ProjectGuid>{46208A0E-F95F-4B1E-A396-0F715BA6B87A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <Version>0.8.2</Version>
     <Description>DynamicInterop unit tests</Description>
     <Authors>Jean-Michel Perraud</Authors>
-    <PackageReleaseNotes>Migration to .NET Standard 2.0</PackageReleaseNotes>
+    <PackageReleaseNotes>Migration to .NET 7.0</PackageReleaseNotes>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\DynamicInterop\DynamicInterop.csproj">
